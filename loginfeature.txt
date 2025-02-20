@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 line added by main
 
 this is my super awesome login implementation.
 
 another line added my main.
+=======
+loginfeature addittion 
+>>>>>>> loginfeature
